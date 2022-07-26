@@ -1,0 +1,7 @@
+C:\Users\ADIKIBERNITIKOS\Documents\Neon Woofer_Slayed_dotkill\obj\Debug\Neon Woofer_Slayed_dotkill.csproj.AssemblyReference.cache
+C:\Users\ADIKIBERNITIKOS\Documents\Neon Woofer_Slayed_dotkill\obj\Debug\Neon Woofer_Slayed_dotkill.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADIKIBERNITIKOS\Documents\Neon Woofer_Slayed_dotkill\obj\Debug\KeyAuth.Loader.Properties.Resources.resources
+C:\Users\ADIKIBERNITIKOS\Documents\Neon Woofer_Slayed_dotkill\obj\Debug\KeyAuth.Login.resources
+C:\Users\ADIKIBERNITIKOS\Documents\Neon Woofer_Slayed_dotkill\obj\Debug\KeyAuth.Main.resources
+C:\Users\ADIKIBERNITIKOS\Documents\Neon Woofer_Slayed_dotkill\obj\Debug\Neon Woofer_Slayed_dotkill.csproj.GenerateResource.cache
+C:\Users\ADIKIBERNITIKOS\Documents\Neon Woofer_Slayed_dotkill\obj\Debug\Neon Woofer_Slayed_dotkill.csproj.CoreCompileInputs.cache
